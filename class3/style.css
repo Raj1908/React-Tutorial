@@ -1,0 +1,13 @@
+/* Syntax:: CSS
+    * Description: This is a simple CSS file that changes the color of the h1 element to red.
+    selector {
+        property: value;
+    }
+ */
+
+h1 {
+    color: red;
+}
+h3 {
+    color: blue;
+}
